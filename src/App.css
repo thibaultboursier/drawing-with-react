@@ -30,3 +30,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media (min-width: 768px) {
+  .modal-dialog.drawing-modal{
+    max-width: 90vw;
+    width: 90vw;
+  }
+}
